@@ -1,0 +1,12 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+a {
+    text-decoration: none;
+}
+#lista {
+    gap: 20px;
+}
+.logo{
+  height: 70px;
+}
